@@ -1,5 +1,5 @@
 #include "sort.h"
-void move_left(listint_t *curr, listint_t *insertion, listint_t **head);
+void move_left(listint_t *rec, listint_t *insert, listint_t **head);
 
 /**
  * insertion_sort_list - sort a list of integer
