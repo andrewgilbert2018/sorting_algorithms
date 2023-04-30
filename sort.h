@@ -1,5 +1,3 @@
-#ifndef
-#include <stdio.h>
 #ifndef SORT_H
 #define SORT_H
 
