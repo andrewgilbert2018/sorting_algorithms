@@ -1,4 +1,7 @@
 #include "sort.h"
+#include <stdio.h>
+#ifndef SORT_H
+#define SORT_H
 
 /**
  * bubble_sort - using bubble sort to sort array of integers
